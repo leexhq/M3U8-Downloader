@@ -114,3 +114,8 @@ yarn pack-mac
 ### 赞赏
 
 [赞赏链接](https://tools.heisir.cn/HLSDownload/2019/07/08/02/)
+
+
+### License
+
+This project is distributed under the [MIT License](LICENSE), as declared by its package metadata.
